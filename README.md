@@ -1,16 +1,29 @@
-# chat_messenger_app
+# Chat Message Ideia - Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://user-images.githubusercontent.com/70405308/222524639-46128836-b1b9-4008-870c-0f065e496d6a.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Essa ideia é uma ideia de layout de app chat de mensagem. Tem área de shopping, notificações, chat e perfil. No shopping foi usado o Staggered Grid view para fazer a grade de imagens, o botão vibrante no nas ligações de Vídeo e Áudio foi feito com Avatar Glow. Todos os dados do aplicativo foram pegos de um Gist do github pré setado.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Grade de imagens personalizadas
+* Layout de rede social
+* Mock de dados com Gist do git hub
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* LIB: avatar_glow
+* LIB: flutter_staggered_grid_view
+* LIB: http
+* LIB: transparent_image
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📌 Links
+* [avatar_glow](https://pub.dev/packages/avatar_glow)
+* [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)
+* [http](https://pub.dev/packages/http)
+* [transparent_image](https://pub.dev/packages/transparent_image)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
